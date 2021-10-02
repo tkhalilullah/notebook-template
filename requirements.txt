@@ -1,1 +1,4 @@
 biopython
+bioconductor-genomicranges
+bioconductor-genomicscores
+bioconductor-phastCons100way.UCSC.hg19
